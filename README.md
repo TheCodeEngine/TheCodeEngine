@@ -9,7 +9,8 @@ Languages:    Go • Python • PHP • JavaScript • SQL
 AI/ML:        OpenAI • Claude • Langchain • Agentic Workflows
 Cloud:        Google Cloud • AWS • Docker • Kubernetes
 Databases:    PostgreSQL • BigQuery • Elasticsearch • Redis
-Tools:        Git • Kestra • Metabase • Terraform
+Tools:        Git • Kestra • Metabase • Temporal
+```
 
 ## 🚀 Was ich baue
 
