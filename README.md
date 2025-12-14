@@ -20,11 +20,12 @@ Bei **[Talk-Point GmbH](https://talk-point.de)** habe ich als CTO eine Plattform
 - **ContentHub** - AI-gestützte Produktdaten-Pipeline
 - **TraderHub** - Multi-Channel E-Commerce (eBay, Amazon, Otto, Kaufland)
 - **WarehouseBrain** - Intelligente Lagerverwaltung
+- ...
 
 ## 📊 GitHub Stats
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TheCodeEngine&show_icons=true&theme=dark&hide_border=true)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=TheCodeEngine&show_icons=true&theme=dark&hide_border=true](https://github-readme-stats.vercel.app/api?username=TheCodeEngine&show_icons=true&theme=dark&hide_border=true))
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TheCodeEngine&layout=compact&theme=dark&hide_border=true)
 
